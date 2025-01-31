@@ -35,3 +35,15 @@ One of the key benefits of using machine learning for predictive analysis is the
 Another advantage of using machine learning for predictive analysis is the ability to update models quickly and easily. Machine learning algorithms can be retrained quickly and easily, allowing users to update their models and adapt to changing circumstances.
 
 In conclusion, predictive analysis using machine learning is a powerful tool for predicting outcomes based on datasets. The task involves building a machine learning model that can predict outcomes based on a given dataset, and the deliverable is a notebook that demonstrates the entire workflow, including feature selection, model training, and evaluation. By following the steps outlined in this task, users can build accurate and reliable machine learning models that provide actionable insights and drive business value.
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/85884aa0-1669-459e-90dd-8e72d7652cc8)
+
+![Image](https://github.com/user-attachments/assets/b5bdea9a-9e36-44be-9df9-676c25e820a4)
+
+![Image](https://github.com/user-attachments/assets/f3496ec9-0279-428a-9b38-9b04f4d1c6c3)
+
+![Image](https://github.com/user-attachments/assets/21b07649-1868-4e42-ac80-2ae0c2333386)
+
+![Image](https://github.com/user-attachments/assets/1c2a1376-d5cd-4cb7-bf3f-dc765201f3bf)
