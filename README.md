@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTOSH
 
-DESCRIPTION:Predictive analysis using machine learning is a crucial task in today's data-driven world. The task involves building a machine learning model that can predict outcomes based on a given dataset. The model can be either a regression model, which predicts continuous outcomes, or a classification model, which predicts categorical outcomes.
+*DESCRIPTION*:Predictive analysis using machine learning is a crucial task in today's data-driven world. The task involves building a machine learning model that can predict outcomes based on a given dataset. The model can be either a regression model, which predicts continuous outcomes, or a classification model, which predicts categorical outcomes.
 
 To complete this task, one needs to follow a series of steps, including feature selection, model training, and evaluation. Feature selection involves selecting the most relevant features from the dataset that contribute to the predicted outcome. Model training involves training the machine learning model using the selected features and the dataset. Evaluation involves evaluating the performance of the trained model using various metrics.
 
